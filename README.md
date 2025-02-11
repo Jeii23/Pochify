@@ -3,4 +3,4 @@ Pocha is a Spanish trick-taking card game derived from Tute and closely related 
 
 Our App 
 
-PochaMate is a Java-based application designed to streamline and automate the scoring and rule management of the popular card game Pocha. With an intuitive interface and real-time calculations, it enhances gameplay by eliminating manual scorekeeping, making every round smoother and more enjoyable.
+Pochify is a Java-based application designed to streamline and automate the scoring and rule management of the popular card game Pocha. With an intuitive interface and real-time calculations, it enhances gameplay by eliminating manual scorekeeping, making every round smoother and more enjoyable.
